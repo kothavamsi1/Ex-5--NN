@@ -1,5 +1,5 @@
 
-<H3>NAME: Sriram S</H3>
+<H3>NAME: Kotha Vamsi S</H3>
 <H3>REGISTER NO: 212222040081</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 05.05.2025</H3>
